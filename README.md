@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## 💻 T e c h 💻
 
-[![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=black)]
+[![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=black)](https://github.com/Ryan-OH/Python-)
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)]
 <br><br><br>
 
