@@ -16,14 +16,17 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Ryan-OH%20😎&fontSize=90)
+
 <div align=center>
+
+<br>
 
 
 ## 💻 T e c h 💻
 
 [![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=black)]
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)]
-
+<br><br><br>
 
 ### 🫡 T o d a y 
 
