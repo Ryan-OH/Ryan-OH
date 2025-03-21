@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)]
 <br><br><br>
 
+<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/akrsoek0971" width="600" height="300"/></a>
+
 ### 🫡 T o d a y 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRyan-OH%2FRyan-OH&count_bg=%23F0C58D&title_bg=%23FF7171&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
